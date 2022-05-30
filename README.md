@@ -1,7 +1,7 @@
 # Trapezoidal atau Trapezium
 Tools yang digunakan adalah javascript, bootstrap 4, HTML 5
 
-# Detail
+## Detail
 Pada website ini menerapkan
 <ul>
   <li>Proses Hasil Trapezium</li>
